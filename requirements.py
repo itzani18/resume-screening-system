@@ -1,2 +1,5 @@
-
-python -m spacy download en_core_web_sm
+streamlit
+scikit-learn
+python-docx
+PyPDF2
+spacy
