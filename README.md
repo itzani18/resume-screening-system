@@ -18,8 +18,8 @@ A Streamlit-based web application that extracts key information from resumes (PD
 git clone https://github.com/your-username/resume-screening-app.git
 cd resume-screening-app
 
-###2.Run .ipynb file so you can get the pkl files
+### 2.Run .ipynb file so you can get the pkl files
 Run one by one each cell dataset is already uploaded but also check the path.
 
-###3. Now you are ready to run app.py
+### 3. Now you are ready to run app.py
 cmd- streamlit run app.py
