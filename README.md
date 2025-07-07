@@ -12,6 +12,9 @@ A Streamlit-based web application that extracts key information from resumes (PD
 - **User-friendly Interface:** Simple, clean, and responsive UI built with Streamlit.
 
 ## 🚀 Getting Started
+### RUN THIS CMDS:
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 
 ### 1. Clone the Repository
 
